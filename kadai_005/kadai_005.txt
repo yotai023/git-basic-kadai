@@ -1,0 +1,14 @@
+E:\侍\samurai E:\侍\samurai\git_challenge 
+E:\侍\samurai\git_challenge \"[Hello, world!]\ >> hello_world.txt" 
+E:\侍\samurai\git_challenge add hello_world.txt 
+E:\侍\samurai\git_challenge commit -m \"Add [Hello, world!] to hello_world.txt\" 
+[main (root-commit) b54f717] Add [Hello, world!] to hello_world.txt 
+1 file changed, 2 insertions(+) 
+create mode 100644 hello_world.txt 
+E:\侍\samurai\git_challenge \"[こんにちは、世界！]\" 
+E:\侍\samurai\git_challenge add hello_world.txt 
+E:\侍\samurai\git_challenge commit -m \"Add [こんにちは、世界！] to hello_world.txt\" 
+[main 38d3fda] Add [こんにちは、世界！] to hello_world.txt 
+1 file changed, 1 insertion(+) 
+E:\侍\samurai\git_challenge log --oneline -- hello_world.txt 
+38d3fda (HEAD - Add [こんにちは、世界！] to hello_world.txt 
