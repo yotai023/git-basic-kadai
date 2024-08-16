@@ -1,14 +1,15 @@
-E:\˜\samurai E:\˜\samurai\git_challenge 
-E:\˜\samurai\git_challenge \"[Hello, world!]\ >> hello_world.txt" 
-E:\˜\samurai\git_challenge add hello_world.txt 
-E:\˜\samurai\git_challenge commit -m \"Add [Hello, world!] to hello_world.txt\" 
+E:\ä¾\samurai E:\ä¾\samurai\git_challenge 
+E:\ä¾\samurai\git_challenge \"[Hello, world!]\ >> hello_world.txt" 
+E:\ä¾\samurai\git_challenge add hello_world.txt 
+E:\ä¾\samurai\git_challenge commit -m \"Add [Hello, world!] to hello_world.txt\" 
 [main (root-commit) b54f717] Add [Hello, world!] to hello_world.txt 
 1 file changed, 2 insertions(+) 
 create mode 100644 hello_world.txt 
-E:\˜\samurai\git_challenge \"[‚±‚ñ‚É‚¿‚ÍA¢ŠEI]\" 
-E:\˜\samurai\git_challenge add hello_world.txt 
-E:\˜\samurai\git_challenge commit -m \"Add [‚±‚ñ‚É‚¿‚ÍA¢ŠEI] to hello_world.txt\" 
-[main 38d3fda] Add [‚±‚ñ‚É‚¿‚ÍA¢ŠEI] to hello_world.txt 
+E:\ä¾\samurai\git_challenge \"[ã“ã‚“ã«ã¡ã¯ã€ä¸–ç•Œï¼]\" 
+E:\ä¾\samurai\git_challenge add hello_world.txt 
+E:\ä¾\samurai\git_challenge commit -m \"Add [ã“ã‚“ã«ã¡ã¯ã€ä¸–ç•Œï¼] to hello_world.txt\" 
+[main 38d3fda] Add [ã“ã‚“ã«ã¡ã¯ã€ä¸–ç•Œï¼] to hello_world.txt 
 1 file changed, 1 insertion(+) 
-E:\˜\samurai\git_challenge log --oneline -- hello_world.txt 
-38d3fda (HEAD - Add [‚±‚ñ‚É‚¿‚ÍA¢ŠEI] to hello_world.txt 
+E:\ä¾\samurai\git_challenge log --oneline -- hello_world.txt 
+38d3fda (HEAD - Add [ã“ã‚“ã«ã¡ã¯ã€ä¸–ç•Œï¼] to hello_world.txt 
+b54f717 Add [Hello, world!] to hello_world.txt
